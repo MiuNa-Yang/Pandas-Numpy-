@@ -1,0 +1,10 @@
+2021-11-26 10:26:00 - root - DEBUG     - <ipython-input-1-708f3cc18408> : 16 line - This is  DEBUG !!
+2021-11-26 10:26:00 - root - INFO      - <ipython-input-1-708f3cc18408> : 17 line - This is  INFO !!
+2021-11-26 10:26:00 - root - WARNING   - <ipython-input-1-708f3cc18408> : 18 line - This is  WARNING !!
+2021-11-26 10:26:00 - root - ERROR     - <ipython-input-1-708f3cc18408> : 19 line - This is  ERROR !!
+2021-11-26 10:26:00 - root - CRITICAL  - <ipython-input-1-708f3cc18408> : 20 line - This is  CRITICAL !!
+2021-11-26 10:26:00 - root - ERROR     - <ipython-input-1-708f3cc18408> : 29 line - division by zero
+Traceback (most recent call last):
+  File "<ipython-input-1-708f3cc18408>", line 26, in <module>
+    3/0
+ZeroDivisionError: division by zero
